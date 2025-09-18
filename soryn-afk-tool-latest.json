@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/SorynSolutions/afk-update/releases/download/v1.0.0/Soryn_AFK_Tool.exe",
   "token": "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",
   "release_notes": "Initial release of Soryn AFK Tool with auto-updater support\n\nFeatures:\n- Virtual gamepad controller support\n- Multiplayer and Warzone movement automation\n- Screen scanning for defeat/victory detection\n- Automatic update system\n- Configurable movement parameters\n- Global hotkey support",
   "release_date": "2025-01-18"
 }
+
 
